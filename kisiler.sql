@@ -39,7 +39,7 @@ CREATE TABLE IF NOT EXISTS `kisi` (
 --
 
 INSERT INTO `kisi` (`id`, `adi`, `soyadi`, `mail`, `sifre`) VALUES
-(1, 'murat', 'ba?kan', 'm@g.com', 'c4ca4238a0b923820dcc509a6f75849b');
+(1, 'admin', 'admin', 'admin@adm.com', 'c4ca4238a0b923820dcc509a6f75849b');
 
 --
 -- Dökümü yapılmış tablolar için indeksler
